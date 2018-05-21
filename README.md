@@ -1,2 +1,3 @@
-# proyecto_demo
-Proyecto final de 9no
+# proyecto final de 9no
+
+En este repositorio se encontra lka argumentacion del proyecto............
